@@ -11,4 +11,9 @@ thes changes were
 
 this is the day
 
+<<<<<<< HEAD
 hope this wont cause a problem
+=======
+
+this is  bound to cause trouble
+>>>>>>> very-bad
